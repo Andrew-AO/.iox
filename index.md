@@ -1,1 +1,1 @@
-## Welcome to the home of the new .iox/ TLD
+## Welcome to the home of the new .iox TLD
